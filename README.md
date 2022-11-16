@@ -1,6 +1,6 @@
-👋 Hi, I’m @bljrepo.
+👋 Hi, I’m @bljcodes.
 
-👀 I’m interested in web and software development.
+👀 I’m interested in web and software engineering and web development.
 
 🌱 I’m currently learning JavaScript, PHP, Go and Rust.
 
